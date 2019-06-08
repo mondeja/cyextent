@@ -1,0 +1,29 @@
+Metadata-Version: 1.2
+Name: cyextent
+Version: 1.0.0
+Summary: Cythonized Python wrapper for libcurl.
+Home-page: https://github.com/mondeja/cyextent
+Author: Álvaro Mondéjar Rubio
+Author-email: mondejar1994@gmail.com
+Maintainer: Álvaro Mondéjar Rubio
+Maintainer-email: mondejar1994@gmail.com
+License: BSD License
+Download-URL: https://github.com/mondeja/cyextent/archive/master.zip
+Description: Cythonized Python wrapper for libcurl.
+Keywords: wrapper,c,curl,cython,cyextent,libcurl
+Platform: any
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: Financial and Insurance Industry
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: Implementation :: PyPy
+Classifier: Topic :: Internet :: WWW/HTTP :: Dynamic Content
+Classifier: Topic :: Office/Business
+Classifier: Topic :: Office/Business :: Financial
+Classifier: Topic :: Office/Business :: Financial :: Accounting
+Classifier: Topic :: Office/Business :: Financial :: Investment
+Classifier: Topic :: Software Development :: Libraries
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Provides: setup_template_cython
